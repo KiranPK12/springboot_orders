@@ -13,11 +13,4 @@ public class Product {
     private String prodName;
     private double prodPrice;
     private long prodQuantity;
-
-
-//    public Product(int id, String name) {
-//        this.prodId = id;
-//        this.prodName = name;
-//    }
-
 }

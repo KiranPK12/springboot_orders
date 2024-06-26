@@ -14,7 +14,6 @@ import java.util.List;
 @NoArgsConstructor
 //TODO:Remove totalPrice and totalQuantity
 public class Order {
-
     @Id
     private String id;
     private String customerName;

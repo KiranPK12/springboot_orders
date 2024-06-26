@@ -1,5 +1,4 @@
 package com.quinbaytraining.orders.model;
-
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
